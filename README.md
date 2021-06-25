@@ -8,6 +8,10 @@ I used to be a non-IT related person, doing jobs like customer service and runni
 
 Hopefully I can get into the industry with limited time and finances and accelerate my learning~
 
+---
+
+Btw, straring with "create a my own project" will be nice, for the job, I think...
+
 
 <!--
 
