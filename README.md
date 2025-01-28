@@ -1,17 +1,4 @@
-### Hi, I'm Wei 🥳
-
-Currently trying to make the transition from online store operations to IT.
-
-Still learning, Begin with Java, also hoping to learn about Swift and Go, and front end stuff.
-
-I used to be a non-IT related person, doing jobs like customer service and running the Amazon store, etc. Those days weren't bad, they were just boring. Being comfortable with the status quo is not good for my future, so I've decided I want to learn and move into an IT career that I'll actually be interested in!
-
-Hopefully I can get into the industry with limited time and finances and accelerate my learning~
-
----
-
-Btw, straring with "create a my own project" will be nice, for the job, I think...
-
+### Wei's here 🥳
 
 <!--
 
